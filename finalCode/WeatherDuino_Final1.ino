@@ -36,9 +36,9 @@ void loop() {
       Serial.print(humidity);
       Serial.println(" %");
       lcd.print("HT:");
-      lcd.setCursor(4,1);
+      lcd.setCursor(1,4);
       lcd.print(humidity);
-      lcd.setCursor(8,4);
+      lcd.setCursor(1,8);
       lcd.print(temperature)
     } 
 }
