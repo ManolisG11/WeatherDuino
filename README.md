@@ -43,3 +43,7 @@ Coming Soon!
 
 Το 3D Design έγινε μέσω της πλατφόρμας OnShape.
 
+## Feedback
+
+If you have any questions or reccomendations for future features, don't hesitate to contact us at emgeorgat11@gmail.com.
+
