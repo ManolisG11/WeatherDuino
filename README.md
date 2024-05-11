@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/BKjLzdv/Weather-Duino-Logo-transformed-removebg-preview.png)
+![Logo](https://i.ibb.co/WsXSDLR/68747470733a2f2f692e6962622e636f2f424b6a4c7a64762f576561746865722d4475696e6f2d4c6f676f2d7472616e7366.png)
 
 
 # WeatherDuino
